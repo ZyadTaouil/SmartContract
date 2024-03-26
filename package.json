@@ -1,0 +1,27 @@
+{
+  "name": "iskem-exercise",
+  "version": "1.0.0",
+  "description": "ISKEM-Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZyadTaouil/IKSEM-Exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZyadTaouil/IKSEM-Exercise/issues"
+  },
+  "homepage": "https://github.com/ZyadTaouil/IKSEM-Exercise#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "react": "^18.2.0"
+  }
+}
